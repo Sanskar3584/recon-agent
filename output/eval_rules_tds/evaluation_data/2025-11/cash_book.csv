@@ -1,0 +1,261 @@
+book_id,date,voucher_no,party,particulars,mode,reference,receipt,payment,balance
+BK-0001,2025-11-03,RV-0001,Vishwa Auto Components,Received from Vishwa Auto Components against INV-8121,NEFT,INV-8121,59911.00,,5059911.00
+BK-0002,2025-11-03,RV-0002,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-3127,NEFT,INV-3127,137063.10,,5196974.10
+BK-0003,2025-11-03,RV-0003,Palash Motors Service Centre,Received from Palash Motors Service Centre against INV-2682,NEFT,INV-2682,22411.30,,5219385.40
+BK-0004,2025-11-03,RV-0004,Deccan Steel Fabricators,Cheque 451391 from Deccan Steel Fabricators against INV-3435,CHEQUE,451391,212225.00,,5431610.40
+BK-0005,2025-11-03,RV-0005,Shivalik Hardware Stores,Cheque 380379 from Shivalik Hardware Stores against INV-6530,CHEQUE,380379,17374.40,,5448984.80
+BK-0006,2025-11-03,RV-0006,Chandan Paints Depot,Received from Chandan Paints Depot against INV-3603,NEFT,INV-3603,30248.28,,5479233.08
+BK-0007,2025-11-03,RV-0007,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-3909,NEFT,INV-3909,3818.42,,5483051.50
+BK-0008,2025-11-03,RV-0008,Deccan Steel Fabricators,Cheque 622265 from Deccan Steel Fabricators against INV-7801,CHEQUE,622265,75257.72,,5558309.22
+BK-0009,2025-11-03,RV-0009,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-2456,NEFT,INV-2456,13070.92,,5571380.14
+BK-0010,2025-11-03,PV-0001,Trimurti Security Services,Paid to Trimurti Security Services for BILL-2584,NEFT,FNXBN90397595620,,24893.35,5546486.79
+BK-0011,2025-11-03,PV-0002,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-8748,NEFT,ZENBN98864810839,,42368.39,5504118.40
+BK-0012,2025-11-03,PV-0003,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-3970,NEFT,QRTBN33926430680,,138231.00,5365887.40
+BK-0013,2025-11-03,PV-0004,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-6415,NEFT,VRDBN08673836589,,108566.69,5257320.71
+BK-0014,2025-11-03,PV-0005,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-4382,NEFT,QRTBN33204011953,,32661.70,5224659.01
+BK-0015,2025-11-03,PV-0006,Jyoti Office Supplies,Cheque 924136 issued to Jyoti Office Supplies for BILL-6731,CHEQUE,924136,,19403.86,5205255.15
+BK-0016,2025-11-04,RV-0010,Elaichi Spices Exports,Cheque 888322 from Elaichi Spices Exports against INV-6364,CHEQUE,888322,76792.00,,5282047.15
+BK-0017,2025-11-04,RV-0011,Kaveri Agro Products,Received from Kaveri Agro Products against INV-1264,NEFT,INV-1264,24158.00,,5306205.15
+BK-0018,2025-11-04,RV-0012,Sahyadri Engineering Works,Cheque 910531 from Sahyadri Engineering Works against INV-9239,CHEQUE,910531,35186.70,,5341391.85
+BK-0019,2025-11-04,PV-0007,Pragati Printers,Paid to Pragati Printers for BILL-5079,NEFT,ZENBN97273250528,,108483.13,5232908.72
+BK-0020,2025-11-04,PV-0008,Mahalaxmi Chemicals,Paid to Mahalaxmi Chemicals for BILL-1321,NEFT,FNXBN30540431081,,7049.00,5225859.72
+BK-0021,2025-11-04,PV-0009,Omkar Steel Suppliers,Cheque 010401 issued to Omkar Steel Suppliers for BILL-1045,CHEQUE,010401,,54048.58,5171811.14
+BK-0022,2025-11-04,PV-0010,Trimurti Security Services,Cheque 292653 issued to Trimurti Security Services for BILL-5267,CHEQUE,292653,,25686.25,5146124.89
+BK-0023,2025-11-04,PV-0011,Swastik Tools and Dies,Cheque 229067 issued to Swastik Tools and Dies for BILL-2419,CHEQUE,229067,,60989.00,5085135.89
+BK-0024,2025-11-04,PV-0012,Vayu Freight Movers,Cheque 353941 issued to Vayu Freight Movers for BILL-9633,CHEQUE,353941,,34715.00,5050420.89
+BK-0025,2025-11-05,RV-0013,Prakash Electricals,Received from Prakash Electricals against INV-2981,NEFT,INV-2981,97085.00,,5147505.89
+BK-0026,2025-11-05,RV-0014,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-3083,NEFT,INV-3083,30287.39,,5177793.28
+BK-0027,2025-11-05,RV-0015,Prakash Electricals,Received from Prakash Electricals against INV-4057,IMPS,INV-4057,143693.26,,5321486.54
+BK-0028,2025-11-05,RV-0016,Tulsi Healthcare LLP,Received from Tulsi Healthcare LLP against INV-1332,IMPS,INV-1332,23613.67,,5345100.21
+BK-0029,2025-11-05,RV-0017,Shivalik Hardware Stores,Cheque 435641 from Shivalik Hardware Stores against INV-1166,CHEQUE,435641,49702.07,,5394802.28
+BK-0030,2025-11-05,RV-0018,Sahyadri Engineering Works,Cheque 707353 from Sahyadri Engineering Works against INV-2794,CHEQUE,707353,50710.53,,5445512.81
+BK-0031,2025-11-05,PV-0013,Mahalaxmi Chemicals,Paid to Mahalaxmi Chemicals for BILL-4233,NEFT,QRTBN53427878682,,7995.67,5437517.14
+BK-0032,2025-11-05,PV-0014,Swastik Tools and Dies,Paid to Swastik Tools and Dies for BILL-6550,NEFT,QRTBN85194619755,,49944.00,5387573.14
+BK-0033,2025-11-05,PV-0015,Trimurti Security Services,Paid to Trimurti Security Services for BILL-1115,UPI,052518991583,,26115.63,5361457.51
+BK-0034,2025-11-05,PV-0016,Shree Estates,Office rent for November 2025 - Shree Estates,NEFT,NBXAN75250330442,,350000.00,5011457.51
+BK-0035,2025-11-05,PV-0017,Unnati Finance Ltd,Term loan EMI - Unnati Finance Ltd,NACH,PLMB5266258280335583,,62340.00,4949117.51
+BK-0036,2025-11-06,RV-0019,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-3998,NEFT,INV-3998,23331.32,,4972448.83
+BK-0037,2025-11-06,RV-0020,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-1183,NEFT,INV-1183,66691.46,,5039140.29
+BK-0038,2025-11-06,RV-0021,Vishwa Auto Components,Received from Vishwa Auto Components against INV-6271,IMPS,INV-6271,123214.00,,5162354.29
+BK-0039,2025-11-06,RV-0022,Konkan Marine Supplies,Cheque 410584 from Konkan Marine Supplies against INV-8184,CHEQUE,410584,41399.00,,5203753.29
+BK-0040,2025-11-06,RV-0023,Nilgiri Tea Traders,Received from Nilgiri Tea Traders against INV-5192,NEFT,INV-5192,54657.47,,5258410.76
+BK-0041,2025-11-06,RV-0024,Narmada Plastics,Received from Narmada Plastics against INV-7672,IMPS,INV-7672,19740.00,,5278150.76
+BK-0042,2025-11-06,PV-0018,Swastik Tools and Dies,Cheque 295410 issued to Swastik Tools and Dies for BILL-5296,CHEQUE,295410,,55186.00,5222964.76
+BK-0043,2025-11-06,PV-0019,Anmol Castings,Paid to Anmol Castings for BILL-4770,NEFT,ZENBN70655930530,,35617.00,5187347.76
+BK-0044,2025-11-06,PV-0020,Omkar Steel Suppliers,Cheque 527256 issued to Omkar Steel Suppliers for BILL-4763,CHEQUE,527256,,25020.25,5162327.51
+BK-0045,2025-11-06,PV-0021,Surya Power Solutions,Cheque 699972 issued to Surya Power Solutions for BILL-1515,CHEQUE,699972,,122037.62,5040289.89
+BK-0046,2025-11-06,PV-0022,Mahalaxmi Chemicals,Paid to Mahalaxmi Chemicals for BILL-1343,UPI,939852332043,,9031.00,5031258.89
+BK-0047,2025-11-07,RV-0025,Prakash Electricals,Cheque 769177 from Prakash Electricals against INV-4626,CHEQUE,769177,19480.94,,5050739.83
+BK-0048,2025-11-07,RV-0026,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-8561,RTGS,INV-8561,229470.81,,5280210.64
+BK-0049,2025-11-07,RV-0027,Nilgiri Tea Traders,Received from Nilgiri Tea Traders against INV-8395,IMPS,INV-8395,25667.00,,5305877.64
+BK-0050,2025-11-07,RV-0028,Rangoli Home Decor,Cheque 262033 from Rangoli Home Decor against INV-1795,CHEQUE,262033,44186.00,,5350063.64
+BK-0051,2025-11-07,RV-0029,Shivalik Hardware Stores,Received from Shivalik Hardware Stores against INV-3823,IMPS,INV-3823,45212.00,,5395275.64
+BK-0052,2025-11-07,PV-0023,Kaveri Packaging Co,Paid to Kaveri Packaging Co for BILL-1925,NEFT,PLMBN90876495070,,108078.41,5287197.23
+BK-0053,2025-11-07,PV-0024,Pragati Printers,Paid to Pragati Printers for BILL-6389,NEFT,PLMBN98303640829,,4997.95,5282199.28
+BK-0054,2025-11-07,PV-0025,Vayu Freight Movers,Cheque 910756 issued to Vayu Freight Movers for BILL-7589,CHEQUE,910756,,51778.40,5230420.88
+BK-0055,2025-11-07,PV-0026,Anmol Castings,Paid to Anmol Castings for BILL-3264,NEFT,ZENBN47811345806,,20034.98,5210385.90
+BK-0056,2025-11-07,PV-0027,Anmol Castings,Cheque 688225 issued to Anmol Castings for BILL-3989,CHEQUE,688225,,103799.00,5106586.90
+BK-0057,2025-11-07,RV-0030,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-1509,NEFT,INV-1509,118000.00,,5224586.90
+BK-0058,2025-11-07,RV-0031,Vishwa Auto Components,Received from Vishwa Auto Components against INV-8025,NEFT,INV-8025,118000.00,,5342586.90
+BK-0059,2025-11-07,RV-0032,Kaveri Agro Products,Received from Kaveri Agro Products against INV-4236,NEFT,INV-4236,118000.00,,5460586.90
+BK-0060,2025-11-07,PV-0028,Income Tax Department,TDS deposit for October 2025 (Challan 281),NETBANKING,120141907112592749,,150784.36,5309802.54
+BK-0061,2025-11-10,RV-0033,Aravalli Constructions,Received from Aravalli Constructions against INV-8066,UPI,INV-8066,36842.00,,5346644.54
+BK-0062,2025-11-10,RV-0034,Vishwa Auto Components,Received from Vishwa Auto Components against INV-1898,NEFT,INV-1898,289890.94,,5636535.48
+BK-0063,2025-11-10,RV-0035,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-9778,NEFT,INV-9778,139047.00,,5775582.48
+BK-0064,2025-11-10,RV-0036,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-6549,NEFT,INV-6549,35403.60,,5810986.08
+BK-0065,2025-11-10,RV-0037,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-2017,NEFT,INV-2017,192095.79,,6003081.87
+BK-0066,2025-11-10,RV-0038,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-1284,NEFT,INV-1284,35461.73,,6038543.60
+BK-0067,2025-11-10,RV-0039,Aravalli Constructions,Received from Aravalli Constructions against INV-1907,RTGS,INV-1907,269017.00,,6307560.60
+BK-0068,2025-11-10,RV-0040,Palash Motors Service Centre,Received from Palash Motors Service Centre against INV-7040,NEFT,INV-7040,27018.86,,6334579.46
+BK-0069,2025-11-10,RV-0041,Aravalli Constructions,Cheque 008880 from Aravalli Constructions against INV-3428,CHEQUE,008880,8189.39,,6342768.85
+BK-0070,2025-11-10,PV-0029,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-9972,NEFT,NBXAN02189429497,,31905.32,6310863.53
+BK-0071,2025-11-10,PV-0030,Saraswati Stationers,Paid to Saraswati Stationers for BILL-4357,NEFT,NBXAN14105351231,,167041.00,6143822.53
+BK-0072,2025-11-10,PV-0031,Mahalaxmi Chemicals,Paid to Mahalaxmi Chemicals for BILL-3544,NEFT,QRTBN83425669830,,73420.71,6070401.82
+BK-0073,2025-11-10,PV-0032,Saraswati Stationers,Paid to Saraswati Stationers for BILL-7514,NEFT,VRDBN06368649148,,76213.00,5994188.82
+BK-0074,2025-11-10,PV-0033,Saraswati Stationers,Paid to Saraswati Stationers for BILL-9317,UPI,081611935347,,31596.00,5962592.82
+BK-0075,2025-11-10,PV-0034,Swastik Tools and Dies,Paid to Swastik Tools and Dies for BILL-6785,NEFT,VRDBN24172642061,,103373.60,5859219.22
+BK-0076,2025-11-10,RV-0042,Deccan Steel Fabricators,Cheque 080020 from Deccan Steel Fabricators against INV-4572,CHEQUE,080020,58185.00,,5917404.22
+BK-0077,2025-11-10,RV-0043,Tulsi Healthcare LLP,Cheque 484868 from Tulsi Healthcare LLP against INV-2167,CHEQUE,484868,72932.80,,5990337.02
+BK-0078,2025-11-10,RV-0044,Aravalli Constructions,Cheque 793884 from Aravalli Constructions against INV-4344,CHEQUE,793884,29739.87,,6020076.89
+BK-0079,2025-11-11,RV-0045,Rangoli Home Decor,Received from Rangoli Home Decor against INV-9583,NEFT,INV-9583,68394.00,,6088470.89
+BK-0080,2025-11-11,RV-0046,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-8100,UPI,INV-8100,34366.00,,6122836.89
+BK-0081,2025-11-11,RV-0047,Tulsi Healthcare LLP,Received from Tulsi Healthcare LLP against INV-3965,IMPS,INV-3965,32200.71,,6155037.60
+BK-0082,2025-11-11,RV-0048,Tulsi Healthcare LLP,Received from Tulsi Healthcare LLP against INV-3337,IMPS,INV-3337,33096.64,,6188134.24
+BK-0083,2025-11-11,PV-0035,Surya Power Solutions,Paid to Surya Power Solutions for BILL-4776,NEFT,ZENBN97551649885,,39307.00,6148827.24
+BK-0084,2025-11-11,PV-0036,Swastik Tools and Dies,Cheque 824071 issued to Swastik Tools and Dies for BILL-5728,CHEQUE,824071,,42882.00,6105945.24
+BK-0085,2025-11-11,PV-0037,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-9149,NEFT,QRTBN24462607009,,94195.66,6011749.58
+BK-0086,2025-11-11,PV-0038,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-7821,NEFT,NBXAN57596217466,,40168.00,5971581.58
+BK-0087,2025-11-11,PV-0039,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-7373,UPI,023168659338,,54019.08,5917562.50
+BK-0088,2025-11-11,PV-0040,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-8830,NEFT,QRTBN70107283004,,22003.00,5895559.50
+BK-0089,2025-11-11,PV-0041,Swastik Tools and Dies,Paid to Swastik Tools and Dies for BILL-2736,UPI,321813788043,,10345.56,5885213.94
+BK-0090,2025-11-11,PV-0042,Pushpak Couriers,Cheque 687920 issued to Pushpak Couriers for BILL-5852,CHEQUE,687920,,128334.32,5756879.62
+BK-0091,2025-11-11,PV-0043,Surya Power Solutions,Paid to Surya Power Solutions for BILL-1455,NEFT,BILL-1455,,107116.00,5649763.62
+BK-0092,2025-11-11,RV-0049,Kaveri Agro Products,Cheque 026410 from Kaveri Agro Products against INV-8304,CHEQUE,026410,13689.70,,5663453.32
+BK-0093,2025-11-11,RV-0050,Narmada Plastics,Cheque 510891 from Narmada Plastics against INV-3175,CHEQUE,510891,44573.00,,5708026.32
+BK-0094,2025-11-12,RV-0051,Chandan Paints Depot,Cheque 801341 from Chandan Paints Depot against INV-9083,CHEQUE,801341,11745.00,,5719771.32
+BK-0095,2025-11-12,RV-0052,Tulsi Healthcare LLP,Cheque 095739 from Tulsi Healthcare LLP against INV-9361,CHEQUE,095739,53915.15,,5773686.47
+BK-0096,2025-11-12,RV-0053,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-7279,NEFT,INV-7279,20060.46,,5793746.93
+BK-0097,2025-11-12,RV-0054,Arjun Textiles Pvt Ltd,Cheque 237329 from Arjun Textiles Pvt Ltd against INV-6359,CHEQUE,237329,68622.69,,5862369.62
+BK-0098,2025-11-12,RV-0055,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-8678,NEFT,INV-8678,8762.65,,5871132.27
+BK-0099,2025-11-12,RV-0056,Nilgiri Tea Traders,Cheque 205878 from Nilgiri Tea Traders against INV-6721,CHEQUE,205878,19859.21,,5890991.48
+BK-0100,2025-11-12,RV-0057,Narmada Plastics,Received from Narmada Plastics against INV-8191,NEFT,INV-8191,43195.77,,5934187.25
+BK-0101,2025-11-12,RV-0058,Rangoli Home Decor,Received from Rangoli Home Decor against INV-3327,NEFT,INV-3327,63993.00,,5998180.25
+BK-0102,2025-11-12,RV-0059,Sahyadri Engineering Works,Received from Sahyadri Engineering Works against INV-3799,NEFT,INV-3799,105096.58,,6103276.83
+BK-0103,2025-11-12,RV-0060,Shivalik Hardware Stores,Received from Shivalik Hardware Stores against INV-6169,NEFT,INV-6169,116761.23,,6220038.06
+BK-0104,2025-11-12,PV-0044,Surya Power Solutions,Cheque 145877 issued to Surya Power Solutions for BILL-9284,CHEQUE,145877,,15389.18,6204648.88
+BK-0105,2025-11-12,PV-0045,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-5550,NEFT,VRDBN15032320148,,46051.00,6158597.88
+BK-0106,2025-11-12,PV-0046,Ekta Electrical Contractors,Paid to Ekta Electrical Contractors for BILL-7533,NEFT,PLMBN12897866462,,45224.43,6113373.45
+BK-0107,2025-11-12,PV-0047,Trimurti Security Services,Paid to Trimurti Security Services for BILL-3846,NEFT,QRTBN74521578551,,41761.64,6071611.81
+BK-0108,2025-11-12,PV-0048,Saraswati Stationers,Cheque 530505 issued to Saraswati Stationers for BILL-9027,CHEQUE,530505,,117133.00,5954478.81
+BK-0109,2025-11-12,PV-0049,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-5140,NEFT,PLMBN32381112735,,112522.64,5841956.17
+BK-0110,2025-11-12,PV-0050,Trimurti Security Services,Paid to Trimurti Security Services for BILL-9990,UPI,747495291983,,19256.00,5822700.17
+BK-0111,2025-11-12,PV-0051,Mahalaxmi Chemicals,Cheque 180940 issued to Mahalaxmi Chemicals for BILL-2691,CHEQUE,180940,,22897.64,5799802.53
+BK-0112,2025-11-12,PV-0052,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-5638,NEFT,NBXAN63574677192,,28858.00,5770944.53
+BK-0113,2025-11-12,PV-0053,Pragati Printers,Paid to Pragati Printers for BILL-6247,UPI,311650608315,,2835.98,5768108.55
+BK-0114,2025-11-12,PV-0054,Omkar Steel Suppliers,Cheque 395402 issued to Omkar Steel Suppliers for BILL-2887,CHEQUE,395402,,32455.00,5735653.55
+BK-0115,2025-11-12,RV-0061,Tulsi Healthcare LLP,Cheque 976625 from Tulsi Healthcare LLP against INV-4656,CHEQUE,976625,68405.78,,5804059.33
+BK-0116,2025-11-12,RV-0062,Nakshatra IT Solutions,Cheque 699813 from Nakshatra IT Solutions against INV-5954,CHEQUE,699813,113297.57,,5917356.90
+BK-0117,2025-11-12,RV-0063,Meera Foods Pvt Ltd,Cheque 114887 from Meera Foods Pvt Ltd against INV-4408,CHEQUE,114887,19080.00,,5936436.90
+BK-0118,2025-11-12,RV-0064,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-2397,NEFT,INV-2397,150000.00,,6086436.90
+BK-0119,2025-11-12,RV-0065,Prakash Electricals,Received from Prakash Electricals against INV-9528,NEFT,INV-9528,150000.00,,6236436.90
+BK-0120,2025-11-12,RV-0066,Chandan Paints Depot,Received from Chandan Paints Depot against INV-5345,NEFT,INV-5345,150000.00,,6386436.90
+BK-0121,2025-11-13,RV-0067,Vishwa Auto Components,Received from Vishwa Auto Components against INV-9523,IMPS,INV-9523,48840.00,,6435276.90
+BK-0122,2025-11-13,RV-0068,Vishwa Auto Components,Received from Vishwa Auto Components against INV-9369,NEFT,INV-9369,75473.88,,6510750.78
+BK-0123,2025-11-13,RV-0069,Rangoli Home Decor,Received from Rangoli Home Decor against INV-1494,NEFT,INV-1494,15387.58,,6526138.36
+BK-0124,2025-11-13,RV-0070,Vindhya Cement Traders,Cheque 533407 from Vindhya Cement Traders against INV-1050,CHEQUE,533407,39965.42,,6566103.78
+BK-0125,2025-11-13,RV-0071,Konkan Marine Supplies,Cheque 075285 from Konkan Marine Supplies against INV-4594,CHEQUE,075285,142564.00,,6708667.78
+BK-0126,2025-11-13,RV-0072,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-1008,NEFT,INV-1008,110377.00,,6819044.78
+BK-0127,2025-11-13,RV-0073,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-1138,NEFT,INV-1138,140325.00,,6959369.78
+BK-0128,2025-11-13,RV-0074,Meera Foods Pvt Ltd,Cheque 723586 from Meera Foods Pvt Ltd against INV-1659,CHEQUE,723586,27963.53,,6987333.31
+BK-0129,2025-11-13,PV-0055,Kaveri Packaging Co,Cheque 017763 issued to Kaveri Packaging Co for BILL-4726,CHEQUE,017763,,62915.00,6924418.31
+BK-0130,2025-11-13,PV-0056,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-4039,NEFT,NBXAN75794334221,,21248.00,6903170.31
+BK-0131,2025-11-13,PV-0057,Shakti Logistics,Paid to Shakti Logistics for BILL-1616,NEFT,PLMBN85877545399,,71741.15,6831429.16
+BK-0132,2025-11-13,PV-0058,Ekta Electrical Contractors,Paid to Ekta Electrical Contractors for BILL-6184,NEFT,FNXBN18465711801,,4820.57,6826608.59
+BK-0133,2025-11-13,PV-0059,Kaveri Packaging Co,Cheque 064030 issued to Kaveri Packaging Co for BILL-7004,CHEQUE,064030,,10678.00,6815930.59
+BK-0134,2025-11-13,PV-0060,Pushpak Couriers,Paid to Pushpak Couriers for BILL-8157,NEFT,PLMBN68156048462,,23584.00,6792346.59
+BK-0135,2025-11-13,PV-0061,Ekta Electrical Contractors,Cheque 582220 issued to Ekta Electrical Contractors for BILL-5773,CHEQUE,582220,,9290.88,6783055.71
+BK-0136,2025-11-14,RV-0075,Vishwa Auto Components,Received from Vishwa Auto Components against INV-8203,NEFT,INV-8203,20983.00,,6804038.71
+BK-0137,2025-11-14,RV-0076,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-9627,NEFT,INV-9627,101547.07,,6905585.78
+BK-0138,2025-11-14,RV-0077,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-8924,UPI,INV-8924,54926.46,,6960512.24
+BK-0139,2025-11-14,RV-0078,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-6636,NEFT,INV-6636,31006.79,,6991519.03
+BK-0140,2025-11-14,RV-0079,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-8194,NEFT,INV-8194,35819.00,,7027338.03
+BK-0141,2025-11-14,PV-0062,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-2283,NEFT,ZENBN12196551858,,10978.70,7016359.33
+BK-0142,2025-11-14,PV-0063,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-2836,NEFT,VRDBN12344896310,,18612.14,6997747.19
+BK-0143,2025-11-17,RV-0080,Elaichi Spices Exports,Cheque 208169 from Elaichi Spices Exports against INV-6660,CHEQUE,208169,127125.47,,7124872.66
+BK-0144,2025-11-17,RV-0081,Aravalli Constructions,Cheque 380888 from Aravalli Constructions against INV-8645,CHEQUE,380888,8800.39,,7133673.05
+BK-0145,2025-11-17,RV-0082,Deccan Steel Fabricators,Cheque 526472 from Deccan Steel Fabricators against INV-1984,CHEQUE,526472,22586.00,,7156259.05
+BK-0146,2025-11-17,RV-0083,Palash Motors Service Centre,Received from Palash Motors Service Centre against INV-6568,NEFT,INV-6568,110913.00,,7267172.05
+BK-0147,2025-11-17,PV-0064,Pushpak Couriers,Paid to Pushpak Couriers for BILL-1556,UPI,743602798497,,11013.08,7256158.97
+BK-0148,2025-11-17,PV-0065,Anmol Castings,Paid to Anmol Castings for BILL-3993,NEFT,VRDBN37508846535,,14807.00,7241351.97
+BK-0149,2025-11-17,PV-0066,Pragati Printers,Cheque 272604 issued to Pragati Printers for BILL-8428,CHEQUE,272604,,34741.00,7206610.97
+BK-0150,2025-11-17,PV-0067,Swastik Tools and Dies,Cheque 028554 issued to Swastik Tools and Dies for BILL-2386,CHEQUE,028554,,62285.00,7144325.97
+BK-0151,2025-11-17,PV-0068,Pragati Printers,Cheque 202944 issued to Pragati Printers for BILL-7695,CHEQUE,202944,,43855.45,7100470.52
+BK-0152,2025-11-17,PV-0069,Anmol Castings,Paid to Anmol Castings for BILL-7853,NEFT,BILL-7853,,63535.37,7036935.15
+BK-0153,2025-11-18,RV-0084,Nakshatra IT Solutions,Received from Nakshatra IT Solutions against INV-6892,NEFT,INV-6892,113420.18,,7150355.33
+BK-0154,2025-11-18,RV-0085,Narmada Plastics,Received from Narmada Plastics against INV-4866,NEFT,INV-4866,65479.51,,7215834.84
+BK-0155,2025-11-18,RV-0086,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-9538,NEFT,INV-9538,19255.00,,7235089.84
+BK-0156,2025-11-18,RV-0087,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-4033,NEFT,INV-4033,24247.00,,7259336.84
+BK-0157,2025-11-18,RV-0088,Vishwa Auto Components,Received from Vishwa Auto Components against INV-5357,NEFT,INV-5357,40204.00,,7299540.84
+BK-0158,2025-11-18,PV-0070,Annapurna Canteen Services,Paid to Annapurna Canteen Services for BILL-6783,NEFT,NBXAN78051733106,,23505.78,7276035.06
+BK-0159,2025-11-18,PV-0071,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-2639,NEFT,ZENBN28220050667,,71462.55,7204572.51
+BK-0160,2025-11-18,PV-0072,Surya Power Solutions,Cheque 438665 issued to Surya Power Solutions for BILL-1681,CHEQUE,438665,,110250.40,7094322.11
+BK-0161,2025-11-19,RV-0089,Aravalli Constructions,Received from Aravalli Constructions against INV-7823,NEFT,INV-7823,64727.89,,7159050.00
+BK-0162,2025-11-19,RV-0090,Chandan Paints Depot,Received from Chandan Paints Depot against INV-2029,NEFT,INV-2029,28074.13,,7187124.13
+BK-0163,2025-11-19,PV-0073,Vayu Freight Movers,Cheque 071379 issued to Vayu Freight Movers for BILL-2686,CHEQUE,071379,,27022.00,7160102.13
+BK-0164,2025-11-19,PV-0074,Shakti Logistics,Cheque 351586 issued to Shakti Logistics for BILL-1861,CHEQUE,351586,,109742.00,7050360.13
+BK-0165,2025-11-19,PV-0075,Surya Power Solutions,Cheque 750921 issued to Surya Power Solutions for BILL-9927,CHEQUE,750921,,24713.51,7025646.62
+BK-0166,2025-11-19,PV-0076,Anmol Castings,Cheque 745777 issued to Anmol Castings for BILL-7421,CHEQUE,745777,,135095.00,6890551.62
+BK-0167,2025-11-19,RV-0091,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-9746,NEFT,INV-9746,75000.00,,6965551.62
+BK-0168,2025-11-19,RV-0092,Prakash Electricals,Received from Prakash Electricals against INV-7450,NEFT,INV-7450,75000.00,,7040551.62
+BK-0169,2025-11-19,RV-0093,Sahyadri Engineering Works,Received from Sahyadri Engineering Works against INV-5556,NEFT,INV-5556,75000.00,,7115551.62
+BK-0170,2025-11-20,RV-0094,Rangoli Home Decor,Received from Rangoli Home Decor against INV-6595,UPI,INV-6595,54157.81,,7169709.43
+BK-0171,2025-11-20,RV-0095,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-3159,NEFT,INV-3159,42849.38,,7212558.81
+BK-0172,2025-11-20,RV-0096,Aravalli Constructions,Received from Aravalli Constructions against INV-6895,NEFT,INV-6895,313173.00,,7525731.81
+BK-0173,2025-11-20,RV-0097,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-1652,NEFT,INV-1652,15017.00,,7540748.81
+BK-0174,2025-11-20,RV-0098,Shivalik Hardware Stores,Cheque 409867 from Shivalik Hardware Stores against INV-4110,CHEQUE,409867,249290.06,,7790038.87
+BK-0175,2025-11-20,RV-0099,Arjun Textiles Pvt Ltd,Cheque 909435 from Arjun Textiles Pvt Ltd against INV-2091,CHEQUE,909435,18378.00,,7808416.87
+BK-0176,2025-11-20,RV-0100,Narmada Plastics,Received from Narmada Plastics against INV-9315,UPI,INV-9315,66727.69,,7875144.56
+BK-0177,2025-11-20,RV-0101,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-8515,NEFT,INV-8515,51139.00,,7926283.56
+BK-0178,2025-11-20,RV-0102,Nilgiri Tea Traders,Received from Nilgiri Tea Traders against INV-8712,IMPS,INV-8712,29050.00,,7955333.56
+BK-0179,2025-11-20,RV-0103,Vindhya Cement Traders,Received from Vindhya Cement Traders against INV-3240,NEFT,INV-3240,27701.99,,7983035.55
+BK-0180,2025-11-20,PV-0077,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-2081,UPI,808584351346,,79100.24,7903935.31
+BK-0181,2025-11-20,PV-0078,Swastik Tools and Dies,Cheque 927577 issued to Swastik Tools and Dies for BILL-5912,CHEQUE,927577,,7737.00,7896198.31
+BK-0182,2025-11-20,PV-0079,Swastik Tools and Dies,Cheque 693062 issued to Swastik Tools and Dies for BILL-2033,CHEQUE,693062,,53190.00,7843008.31
+BK-0183,2025-11-20,PV-0080,GST (GSTR-3B),GST payment for October 2025 (GSTR-3B),NETBANKING,53195822338950,,493571.00,7349437.31
+BK-0184,2025-11-21,RV-0104,Tulsi Healthcare LLP,Cheque 817348 from Tulsi Healthcare LLP against INV-8386,CHEQUE,817348,54178.00,,7403615.31
+BK-0185,2025-11-21,RV-0105,Vishwa Auto Components,Cheque 606737 from Vishwa Auto Components against INV-4966,CHEQUE,606737,105193.00,,7508808.31
+BK-0186,2025-11-21,RV-0106,Narmada Plastics,Received from Narmada Plastics against INV-5522,NEFT,INV-5522,174767.11,,7683575.42
+BK-0187,2025-11-21,RV-0107,Chandan Paints Depot,Cheque 593650 from Chandan Paints Depot against INV-5760,CHEQUE,593650,144210.00,,7827785.42
+BK-0188,2025-11-21,RV-0108,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-1359,UPI,INV-1359,23681.00,,7851466.42
+BK-0189,2025-11-21,RV-0109,Kaveri Agro Products,Received from Kaveri Agro Products against INV-2433,NEFT,INV-2433,37235.50,,7888701.92
+BK-0190,2025-11-21,PV-0081,Jyoti Office Supplies,Cheque 843798 issued to Jyoti Office Supplies for BILL-9484,CHEQUE,843798,,12314.69,7876387.23
+BK-0191,2025-11-21,PV-0082,Anmol Castings,Paid to Anmol Castings for BILL-8801,NEFT,NBXAN12974850333,,21847.15,7854540.08
+BK-0192,2025-11-21,PV-0083,Anmol Castings,Paid to Anmol Castings for BILL-9359,NEFT,BILL-9359,,61607.87,7792932.21
+BK-0193,2025-11-21,PV-0084,Annapurna Canteen Services,Cheque 512746 issued to Annapurna Canteen Services for BILL-7628,CHEQUE,512746,,38694.00,7754238.21
+BK-0194,2025-11-24,RV-0110,Vindhya Cement Traders,Cheque 095147 from Vindhya Cement Traders against INV-9087,CHEQUE,095147,55801.58,,7810039.79
+BK-0195,2025-11-24,RV-0111,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-7379,NEFT,INV-7379,50723.90,,7860763.69
+BK-0196,2025-11-24,RV-0112,Deccan Steel Fabricators,Cheque 714237 from Deccan Steel Fabricators against INV-8168,CHEQUE,714237,96983.00,,7957746.69
+BK-0197,2025-11-24,RV-0113,Nilgiri Tea Traders,Received from Nilgiri Tea Traders against INV-7945,NEFT,INV-7945,55840.00,,8013586.69
+BK-0198,2025-11-24,RV-0114,Arjun Textiles Pvt Ltd,Cheque 757448 from Arjun Textiles Pvt Ltd against INV-8509,CHEQUE,757448,97488.06,,8111074.75
+BK-0199,2025-11-24,RV-0115,Nilgiri Tea Traders,Received from Nilgiri Tea Traders against INV-4535,NEFT,INV-4535,32595.54,,8143670.29
+BK-0200,2025-11-24,PV-0085,Mahalaxmi Chemicals,Paid to Mahalaxmi Chemicals for BILL-3615,NEFT,VRDBN51639437421,,99014.77,8044655.52
+BK-0201,2025-11-24,PV-0086,Pushpak Couriers,Cheque 481560 issued to Pushpak Couriers for BILL-4902,CHEQUE,481560,,21787.34,8022868.18
+BK-0202,2025-11-24,RV-0116,Konkan Marine Supplies,Cheque 939450 from Konkan Marine Supplies against INV-3381,CHEQUE,939450,26624.16,,8049492.34
+BK-0203,2025-11-24,RV-0117,Konkan Marine Supplies,Cheque 831602 from Konkan Marine Supplies against INV-3857,CHEQUE,831602,36025.85,,8085518.19
+BK-0204,2025-11-25,RV-0118,Elaichi Spices Exports,Cheque 058954 from Elaichi Spices Exports against INV-6546,CHEQUE,058954,280775.12,,8366293.31
+BK-0205,2025-11-25,RV-0119,Vishwa Auto Components,Cheque 794060 from Vishwa Auto Components against INV-3925,CHEQUE,794060,60841.00,,8427134.31
+BK-0206,2025-11-25,RV-0120,Vindhya Cement Traders,Received from Vindhya Cement Traders against INV-7599,NEFT,INV-7599,26642.00,,8453776.31
+BK-0207,2025-11-25,RV-0121,Sahyadri Engineering Works,Received from Sahyadri Engineering Works against INV-4197,NEFT,INV-4197,67873.18,,8521649.49
+BK-0208,2025-11-25,RV-0122,Kaveri Agro Products,Received from Kaveri Agro Products against INV-1427,UPI,INV-1427,67512.00,,8589161.49
+BK-0209,2025-11-25,RV-0123,Shivalik Hardware Stores,Cheque 384062 from Shivalik Hardware Stores against INV-4986,CHEQUE,384062,80300.00,,8669461.49
+BK-0210,2025-11-25,RV-0124,Vindhya Cement Traders,Cheque 611333 from Vindhya Cement Traders against INV-4802,CHEQUE,611333,24829.97,,8694291.46
+BK-0211,2025-11-25,RV-0125,Prakash Electricals,Received from Prakash Electricals against INV-6328,NEFT,INV-6328,10926.26,,8705217.72
+BK-0212,2025-11-25,RV-0126,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-9183,NEFT,INV-9183,34774.00,,8739991.72
+BK-0213,2025-11-25,PV-0087,Pragati Printers,Paid to Pragati Printers for BILL-1140,NEFT,QRTBN17413178269,,12446.00,8727545.72
+BK-0214,2025-11-25,PV-0088,Vayu Freight Movers,Paid to Vayu Freight Movers for BILL-1313,NEFT,NBXAN70506812108,,258743.00,8468802.72
+BK-0215,2025-11-25,PV-0089,Saraswati Stationers,Cheque 796856 issued to Saraswati Stationers for BILL-9628,CHEQUE,796856,,34853.58,8433949.14
+BK-0216,2025-11-25,PV-0090,Pragati Printers,Paid to Pragati Printers for BILL-1767,NEFT,ZENBN81311622077,,73414.39,8360534.75
+BK-0217,2025-11-25,PV-0091,Ekta Electrical Contractors,Paid to Ekta Electrical Contractors for BILL-6699,NEFT,PLMBN77604949594,,12907.34,8347627.41
+BK-0218,2025-11-25,PV-0092,Pragati Printers,Paid to Pragati Printers for BILL-7612,NEFT,VRDBN69634085833,,46869.00,8300758.41
+BK-0219,2025-11-25,PV-0093,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-6585,UPI,837920727139,,40506.67,8260251.74
+BK-0220,2025-11-26,RV-0127,Tulsi Healthcare LLP,Received from Tulsi Healthcare LLP against INV-5758,UPI,INV-5758,39272.12,,8299523.86
+BK-0221,2025-11-26,RV-0128,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-8579,NEFT,INV-8579,47651.18,,8347175.04
+BK-0222,2025-11-26,RV-0129,Narmada Plastics,Received from Narmada Plastics against INV-8972,IMPS,INV-8972,58885.00,,8406060.04
+BK-0223,2025-11-26,RV-0130,Chandan Paints Depot,Received from Chandan Paints Depot against INV-2226,NEFT,INV-2226,65536.14,,8471596.18
+BK-0224,2025-11-26,RV-0131,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-3471,NEFT,INV-3471,71952.00,,8543548.18
+BK-0225,2025-11-26,RV-0132,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-9074,NEFT,INV-9074,110396.00,,8653944.18
+BK-0226,2025-11-26,PV-0094,Trimurti Security Services,Paid to Trimurti Security Services for BILL-1233,NEFT,ZENBN77045469594,,18665.00,8635279.18
+BK-0227,2025-11-26,PV-0095,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-7562,NEFT,ZENBN55715105469,,192594.63,8442684.55
+BK-0228,2025-11-26,PV-0096,Shakti Logistics,Cheque 825280 issued to Shakti Logistics for BILL-7227,CHEQUE,825280,,49634.00,8393050.55
+BK-0229,2025-11-26,PV-0097,Annapurna Canteen Services,Paid to Annapurna Canteen Services for BILL-3305,NEFT,ZENBN54626339252,,9747.33,8383303.22
+BK-0230,2025-11-26,PV-0098,Omkar Steel Suppliers,Cheque 482865 issued to Omkar Steel Suppliers for BILL-5051,CHEQUE,482865,,34544.36,8348758.86
+BK-0231,2025-11-26,RV-0133,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-9074,NEFT,INV-9074,110396.00,,8459154.86
+BK-0232,2025-11-27,RV-0134,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-8135,IMPS,INV-8135,127823.33,,8586978.19
+BK-0233,2025-11-27,RV-0135,Vindhya Cement Traders,Received from Vindhya Cement Traders against INV-9343,NEFT,INV-9343,67366.66,,8654344.85
+BK-0234,2025-11-27,RV-0136,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-7956,UPI,INV-7956,56306.00,,8710650.85
+BK-0235,2025-11-27,RV-0137,Deccan Steel Fabricators,Received from Deccan Steel Fabricators against INV-5424,IMPS,INV-5424,72365.00,,8783015.85
+BK-0236,2025-11-27,PV-0099,Anmol Castings,Cheque 678656 issued to Anmol Castings for BILL-1431,CHEQUE,678656,,57571.35,8725444.50
+BK-0237,2025-11-27,PV-0100,Saraswati Stationers,Cheque 198486 issued to Saraswati Stationers for BILL-6146,CHEQUE,198486,,61025.04,8664419.46
+BK-0238,2025-11-27,PV-0101,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-2315,UPI,779918762353,,30265.30,8634154.16
+BK-0239,2025-11-27,PV-0102,Pragati Printers,Cheque 715386 issued to Pragati Printers for BILL-8002,CHEQUE,715386,,30380.00,8603774.16
+BK-0240,2025-11-27,PV-0103,Omkar Steel Suppliers,Paid to Omkar Steel Suppliers for BILL-2315,UPI,779918762353,,30265.30,8573508.86
+BK-0241,2025-11-28,RV-0138,Chandan Paints Depot,Received from Chandan Paints Depot against INV-8101,UPI,INV-8101,38309.77,,8611818.63
+BK-0242,2025-11-28,RV-0139,Kaveri Agro Products,Received from Kaveri Agro Products against INV-5062,RTGS,INV-5062,545673.00,,9157491.63
+BK-0243,2025-11-28,RV-0140,Ganga Pharma Distributors,Cheque 399473 from Ganga Pharma Distributors against INV-5800,CHEQUE,399473,62313.00,,9219804.63
+BK-0244,2025-11-28,RV-0141,Shivalik Hardware Stores,Received from Shivalik Hardware Stores against INV-2520,NEFT,INV-2520,176939.31,,9396743.94
+BK-0245,2025-11-28,RV-0142,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-9056,NEFT,INV-9056,102047.00,,9498790.94
+BK-0246,2025-11-28,RV-0143,Elaichi Spices Exports,Received from Elaichi Spices Exports against INV-3919,NEFT,INV-3919,101548.00,,9600338.94
+BK-0247,2025-11-28,RV-0144,Vindhya Cement Traders,Received from Vindhya Cement Traders against INV-9451,IMPS,INV-9451,74045.00,,9674383.94
+BK-0248,2025-11-28,RV-0145,Arjun Textiles Pvt Ltd,Received from Arjun Textiles Pvt Ltd against INV-9970,NEFT,INV-9970,282065.11,,9956449.05
+BK-0249,2025-11-28,RV-0146,Rangoli Home Decor,Cheque 249725 from Rangoli Home Decor against INV-7668,CHEQUE,249725,10751.00,,9967200.05
+BK-0250,2025-11-28,RV-0147,Aravalli Constructions,Cheque 687766 from Aravalli Constructions against INV-9772,CHEQUE,687766,70787.00,,10037987.05
+BK-0251,2025-11-28,RV-0148,Ganga Pharma Distributors,Received from Ganga Pharma Distributors against INV-1458,IMPS,INV-1458,60546.15,,10098533.20
+BK-0252,2025-11-28,RV-0149,Palash Motors Service Centre,Received from Palash Motors Service Centre against INV-3963,IMPS,INV-3963,51054.02,,10149587.22
+BK-0253,2025-11-28,RV-0150,Tulsi Healthcare LLP,Cheque 890996 from Tulsi Healthcare LLP against INV-5785,CHEQUE,890996,12451.89,,10162039.11
+BK-0254,2025-11-28,PV-0104,Pragati Printers,Paid to Pragati Printers for BILL-2714,NEFT,NBXAN08929593031,,15909.00,10146130.11
+BK-0255,2025-11-28,PV-0105,Annapurna Canteen Services,Paid to Annapurna Canteen Services for BILL-8126,NEFT,FNXBN09033333323,,22596.26,10123533.85
+BK-0256,2025-11-28,PV-0106,Swastik Tools and Dies,Cheque 936224 issued to Swastik Tools and Dies for BILL-3719,CHEQUE,936224,,25493.97,10098039.88
+BK-0257,2025-11-28,PV-0107,Jyoti Office Supplies,Paid to Jyoti Office Supplies for BILL-4701,NEFT,PLMBN40744092111,,46727.99,10051311.89
+BK-0258,2025-11-28,RV-0151,Nakshatra IT Solutions,Cheque 385993 from Nakshatra IT Solutions against INV-3047,CHEQUE,385993,30614.00,,10081925.89
+BK-0259,2025-11-28,RV-0152,Konkan Marine Supplies,Received from Konkan Marine Supplies against INV-2425,NEFT,INV-2425,54159.56,,10136085.45
+BK-0260,2025-11-28,PV-0108,Employees (payroll),Salaries for November 2025,NEFT,NBXAN05762969450,,2709550.00,7426535.45

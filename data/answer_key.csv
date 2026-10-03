@@ -1,0 +1,265 @@
+item_id,category,book_ids,bank_ids,book_amount,bank_amount,adjusts,adjustment,suggested_entry,expected_clear_date,note
+AK-001,EXACT,BK-0001,BS-0001,24629.30,24629.30,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-002,AMOUNT_ERROR,BK-0002,BS-0002,68758.00,67858.00,BOOK,-900.00,Dr Accounts Receivable - Kaveri Agro Products 900.00 / Cr Bank 900.00,,Keyed in as 68758.00 instead of 67858.00 (two digits transposed).
+AK-003,EXACT,BK-0003,BS-0003,26800.65,26800.65,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-004,DATE_LAG,BK-0004,BS-0031,152746.74,152746.74,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-005,EXACT,BK-0005,BS-0004,257938.72,257938.72,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-006,EXACT,BK-0006,BS-0005,-98918.86,-98918.86,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-007,EXACT,BK-0007,BS-0006,-56576.71,-56576.71,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-008,EXACT,BK-0008,BS-0007,-39058.69,-39058.69,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-009,EXACT,BK-0009,BS-0008,-46045.00,-46045.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-010,EXACT,BK-0010,BS-0009,-6024.00,-6024.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-011,NO_REFERENCE,BK-0011,BS-0010,-20060.00,-20060.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-012,DATE_LAG,BK-0012,BS-0025,-49412.42,-49412.42,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-013,DATE_LAG,BK-0013,BS-0018,4500.75,4500.75,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-014,DATE_LAG,BK-0014,BS-0020,86307.34,86307.34,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-015,EXACT,BK-0015,BS-0011,21133.64,21133.64,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-016,DATE_LAG,BK-0016,BS-0040,22509.56,22509.56,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-017,EXACT,BK-0017,BS-0012,32238.00,32238.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-018,EXACT,BK-0018,BS-0013,30138.00,30138.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-019,DATE_LAG,BK-0019,BS-0105,-77332.00,-77332.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 9 working day(s) later.
+AK-020,EXACT,BK-0020,BS-0014,-77960.00,-77960.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-021,EXACT,BK-0021,BS-0015,-2661.28,-2661.28,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-022,EXACT,BK-0022,BS-0016,-6443.00,-6443.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-023,EXACT,BK-0023,BS-0017,-10057.86,-10057.86,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-024,DATE_LAG,BK-0024,BS-0036,-39080.00,-39080.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-025,BATCH_DEPOSIT,BK-0025;BK-0026,BS-0026,75194.68,75194.68,NONE,0.00,No entry needed,,2 cheques paid in on slip DS034244; the bank shows one combined credit.
+AK-026,EXACT,BK-0027,BS-0019,79166.00,79166.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-027,EXACT,BK-0028,BS-0021,176891.53,176891.53,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-028,EXACT,BK-0029,BS-0022,90702.26,90702.26,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-029,DATE_LAG,BK-0030,BS-0058,63207.61,63207.61,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-030,EXACT,BK-0031,BS-0023,-48898.13,-48898.13,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-031,DATE_LAG,BK-0032,BS-0082,-60685.00,-60685.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 6 working day(s) later.
+AK-032,EXACT,BK-0033,BS-0024,-116065.00,-116065.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-033,DATE_LAG,BK-0034,BS-0132,-144436.17,-144436.17,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 10 working day(s) later.
+AK-034,EXACT,BK-0035,BS-0027,-350000.00,-350000.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-035,DIRECT_CREDIT,,BS-0028,,39482.28,BOOK,39482.28,Dr Bank 39482.28 / Cr Customer Advances - Arjun Textiles Pvt Ltd 39482.28,,Arjun Textiles Pvt Ltd paid straight into the account; not yet booked.
+AK-036,EXACT,BK-0036,BS-0029,21456.00,21456.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-037,NO_REFERENCE,BK-0037,BS-0030,78020.03,78020.03,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-038,EXACT,BK-0038,BS-0032,74130.85,74130.85,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-039,EXACT,BK-0039,BS-0033,42682.34,42682.34,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-040,EXACT,BK-0040,BS-0034,61779.00,61779.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-041,DATE_LAG,BK-0041,BS-0044,19154.55,19154.55,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-042,EXACT,BK-0042,BS-0035,-31612.00,-31612.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-043,EXACT,BK-0043,BS-0037,-43662.00,-43662.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-044,EXACT,BK-0044,BS-0038,-21415.17,-21415.17,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-045,DATE_LAG,BK-0045,BS-0053,27793.54,27793.54,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-046,EXACT,BK-0046,BS-0039,28525.00,28525.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-047,EXACT,BK-0047,BS-0041,26506.00,26506.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-048,NO_REFERENCE,BK-0048,BS-0042,32208.91,32208.91,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-049,DATE_LAG,BK-0049,BS-0057,58586.93,58586.93,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-050,NO_REFERENCE,BK-0050,BS-0043,22651.00,22651.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-051,EXACT,BK-0051,BS-0045,894940.44,894940.44,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-052,EXACT,BK-0052,BS-0046,-60399.00,-60399.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-053,EXACT,BK-0053,BS-0047,-46340.00,-46340.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-054,EXACT,BK-0054,BS-0048,-57132.64,-57132.64,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-055,EXACT,BK-0055,BS-0049,-158014.18,-158014.18,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-056,EXACT,BK-0056,BS-0050,-62340.00,-62340.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-057,UNRECORDED_DEBIT,,BS-0051,,-2360.00,BOOK,-2360.00,Dr Telephone Expense 2360.00 / Cr Bank 2360.00,,NACH auto-debit to Tarang Broadband Services that was never booked.
+AK-058,UNRECORDED_DEBIT,,BS-0052,,-27315.00,BOOK,-27315.00,Dr Electricity Expense 27315.00 / Cr Bank 27315.00,,NACH auto-debit to Prakash Power Distribution that was never booked.
+AK-059,EXACT,BK-0057,BS-0054,9579.30,9579.30,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-060,EXACT,BK-0058,BS-0055,14708.00,14708.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-061,EXACT,BK-0059,BS-0056,15817.00,15817.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-062,AMOUNT_ERROR,BK-0060,BS-0061,79761.43,79716.43,BOOK,-45.00,Dr Accounts Receivable - Chandan Paints Depot 45.00 / Cr Bank 45.00,,Keyed in as 79761.43 instead of 79716.43 (two digits transposed).
+AK-063,DATE_LAG,BK-0061,BS-0097,-11153.00,-11153.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 4 working day(s) later.
+AK-064,DATE_LAG,BK-0062,BS-0168,-103082.39,-103082.39,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 10 working day(s) later.
+AK-065,EXACT,BK-0063,BS-0059,-15720.00,-15720.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-066,EXACT,BK-0064,BS-0060,-147062.26,-147062.26,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-067,EXACT,BK-0065,BS-0062,51518.00,51518.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-068,EXACT,BK-0066,BS-0063,-38637.03,-38637.03,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-069,EXACT,BK-0067,BS-0064,-36463.00,-36463.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-070,EXACT,BK-0068,BS-0065,-90658.29,-90658.29,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-071,DATE_LAG,BK-0069,BS-0180,-112576.00,-112576.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 10 working day(s) later.
+AK-072,EXACT,BK-0070,BS-0066,-39900.00,-39900.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-073,DATE_LAG,BK-0071,BS-0084,-55297.56,-55297.56,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-074,NO_REFERENCE,BK-0072,BS-0075,51635.06,51635.06,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-075,EXACT,BK-0073,BS-0067,441183.00,441183.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-076,EXACT,BK-0074,BS-0068,51088.00,51088.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-077,NO_REFERENCE,BK-0075,BS-0069,63482.00,63482.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-078,EXACT,BK-0076,BS-0070,24347.26,24347.26,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-079,DATE_LAG,BK-0077,BS-0088,98603.00,98603.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-080,EXACT,BK-0078,BS-0071,38131.00,38131.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-081,EXACT,BK-0079,BS-0072,15666.75,15666.75,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-082,DATE_LAG,BK-0080,BS-0179,-26305.32,-26305.32,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 9 working day(s) later.
+AK-083,NO_REFERENCE,BK-0081,BS-0073,-37939.73,-37939.73,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-084,DATE_LAG,BK-0082,BS-0181,-29032.00,-29032.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 9 working day(s) later.
+AK-085,EXACT,BK-0083,BS-0074,-38311.31,-38311.31,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-086,DATE_LAG,BK-0084,BS-0155,-84216.27,-84216.27,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 7 working day(s) later.
+AK-087,DATE_LAG,BK-0085,BS-0100,29167.00,29167.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-088,EXACT,BK-0086,BS-0076,5736.77,5736.77,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-089,DATE_LAG,BK-0087,BS-0087,165764.28,165764.28,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-090,DATE_LAG,BK-0088,BS-0089,13745.70,13745.70,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-091,EXACT,BK-0089,BS-0077,19995.95,19995.95,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-092,DATE_LAG,BK-0090,BS-0091,40901.50,40901.50,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-093,EXACT,BK-0091,BS-0078,85939.00,85939.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-094,EXACT,BK-0092,BS-0079,-73836.00,-73836.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-095,EXACT,BK-0093,BS-0080,-42055.07,-42055.07,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-096,EXACT,BK-0094,BS-0081,-160138.18,-160138.18,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-097,EXACT,BK-0095,BS-0083,-61464.10,-61464.10,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-098,BATCH_DEPOSIT,BK-0096;BK-0097;BK-0098;BK-0099,BS-0110,391848.72,391848.72,NONE,0.00,No entry needed,,4 cheques paid in on slip DS397359; the bank shows one combined credit.
+AK-099,BANK_CHARGE,,BS-0085,,-59.00,BOOK,-59.00,Dr Bank Charges 59.00 / Cr Bank 59.00,,Charge debited by the bank and not yet booked.
+AK-100,DATE_LAG,BK-0100,BS-0111,27984.00,27984.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-101,EXACT,BK-0101,BS-0086,11156.00,11156.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-102,DATE_LAG,BK-0102,BS-0102,16331.00,16331.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-103,NO_REFERENCE,BK-0103,BS-0090,53623.00,53623.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-104,EXACT,BK-0104,BS-0092,88496.60,88496.60,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-105,EXACT,BK-0105,BS-0093,29806.72,29806.72,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-106,EXACT,BK-0106,BS-0094,97566.28,97566.28,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-107,DATE_LAG,BK-0107,BS-0127,185946.99,185946.99,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-108,DATE_LAG,BK-0108,BS-0128,519826.00,519826.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-109,EXACT,BK-0109,BS-0095,50612.90,50612.90,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-110,EXACT,BK-0110,BS-0096,-25597.00,-25597.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-111,DATE_LAG,BK-0111,BS-0192,-83971.33,-83971.33,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 8 working day(s) later.
+AK-112,EXACT,BK-0112,BS-0098,-65824.00,-65824.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-113,DATE_LAG,BK-0113,BS-0120,-32974.44,-32974.44,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-114,DATE_LAG,BK-0114,BS-0154,-21246.00,-21246.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 5 working day(s) later.
+AK-115,EXACT,BK-0115,BS-0099,-19489.58,-19489.58,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-116,DUPLICATE_BOOK,BK-0116,,29806.72,,BOOK,-29806.72,Dr Accounts Receivable - Narmada Plastics 29806.72 / Cr Bank 29806.72,,Duplicate of RV-0060 (BK-0105); it happened only once.
+AK-117,EXACT,BK-0117,BS-0101,94423.84,94423.84,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-118,DATE_LAG,BK-0118,BS-0112,18781.00,18781.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-119,EXACT,BK-0119,BS-0103,104316.37,104316.37,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-120,EXACT,BK-0120,BS-0104,172793.00,172793.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-121,DATE_LAG,BK-0121,BS-0125,28522.00,28522.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-122,EXACT,BK-0122,BS-0106,-28383.00,-28383.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-123,AMOUNT_ERROR,BK-0123,BS-0107,-37099.00,-30799.00,BOOK,6300.00,Dr Bank 6300.00 / Cr Accounts Payable - Shakti Logistics 6300.00,,Keyed in as 37099.00 instead of 30799.00 (two digits transposed).
+AK-124,EXACT,BK-0124,BS-0108,-119577.41,-119577.41,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-125,EXACT,BK-0125,BS-0109,-8788.00,-8788.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-126,BATCH_DEPOSIT,BK-0126;BK-0127;BK-0128;BK-0129,BS-0121,339567.94,339567.94,NONE,0.00,No entry needed,,4 cheques paid in on slip DS554398; the bank shows one combined credit.
+AK-127,NO_REFERENCE,BK-0130,BS-0113,15114.00,15114.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-128,DATE_LAG,BK-0131,BS-0124,20503.00,20503.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-129,NO_REFERENCE,BK-0132,BS-0114,104566.54,104566.54,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-130,EXACT,BK-0133,BS-0115,53386.00,53386.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-131,EXACT,BK-0134,BS-0116,49427.09,49427.09,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-132,EXACT,BK-0135,BS-0117,88815.47,88815.47,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-133,DATE_LAG,BK-0136,BS-0148,38260.35,38260.35,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-134,AMOUNT_ERROR,BK-0137,BS-0118,65447.00,56447.00,BOOK,-9000.00,Dr Accounts Receivable - Elaichi Spices Exports 9000.00 / Cr Bank 9000.00,,Keyed in as 65447.00 instead of 56447.00 (two digits transposed).
+AK-135,EXACT,BK-0138,BS-0119,-24937.00,-24937.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-136,DATE_LAG,BK-0139,BS-0193,-35044.00,-35044.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 6 working day(s) later.
+AK-137,DUPLICATE_BOOK,BK-0140,,88815.47,,BOOK,-88815.47,Dr Accounts Receivable - Nilgiri Tea Traders 88815.47 / Cr Bank 88815.47,,Duplicate of RV-0080 (BK-0135); it happened only once.
+AK-138,EXACT,BK-0141,BS-0122,65296.00,65296.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-139,EXACT,BK-0142,BS-0123,25269.12,25269.12,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-140,NO_REFERENCE,BK-0143,BS-0138,13657.56,13657.56,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-141,DATE_LAG,BK-0144,BS-0139,36214.33,36214.33,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-142,DATE_LAG,BK-0145,BS-0141,45182.85,45182.85,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-143,DATE_LAG,BK-0146,BS-0164,32114.00,32114.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-144,EXACT,BK-0147,BS-0126,51801.00,51801.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-145,EXACT,BK-0148,BS-0129,8570.70,8570.70,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-146,EXACT,BK-0149,BS-0130,-60127.07,-60127.07,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-147,EXACT,BK-0150,BS-0131,-92787.02,-92787.02,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-148,DATE_LAG,BK-0151,BS-0167,-57611.00,-57611.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-149,EXACT,BK-0152,BS-0133,-115196.05,-115196.05,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-150,NO_REFERENCE,BK-0153,BS-0134,100000.00,100000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-151,NO_REFERENCE,BK-0154,BS-0135,100000.00,100000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-152,NO_REFERENCE,BK-0155,BS-0136,100000.00,100000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-153,EXACT,BK-0156,BS-0137,68495.85,68495.85,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-154,EXACT,BK-0157,BS-0140,52721.24,52721.24,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-155,DATE_LAG,BK-0158,BS-0163,8769.83,8769.83,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-156,EXACT,BK-0159,BS-0142,17834.05,17834.05,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-157,DATE_LAG,BK-0160,BS-0194,-18867.73,-18867.73,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 4 working day(s) later.
+AK-158,DATE_LAG,BK-0161,BS-0175,-7753.80,-7753.80,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-159,BANK_CHARGE,,BS-0143,,-708.00,BOOK,-708.00,Dr Bank Charges 708.00 / Cr Bank 708.00,,Charge debited by the bank and not yet booked.
+AK-160,EXACT,BK-0162,BS-0144,51732.00,51732.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-161,DATE_LAG,BK-0163,BS-0161,21571.00,21571.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-162,EXACT,BK-0164,BS-0145,14473.00,14473.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-163,NO_REFERENCE,BK-0165,BS-0146,20216.45,20216.45,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-164,EXACT,BK-0166,BS-0147,676227.24,676227.24,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-165,EXACT,BK-0167,BS-0149,128043.48,128043.48,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-166,DATE_LAG,BK-0168,BS-0165,56278.78,56278.78,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-167,EXACT,BK-0169,BS-0150,-26459.46,-26459.46,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-168,EXACT,BK-0170,BS-0151,-95021.00,-95021.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-169,EXACT,BK-0171,BS-0152,-25162.00,-25162.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-170,EXACT,BK-0172,BS-0153,-23874.06,-23874.06,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-171,DATE_LAG,BK-0173,BS-0247,-70851.27,-70851.27,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 7 working day(s) later.
+AK-172,AMOUNT_ERROR,BK-0174,BS-0237,-108522.74,-105822.74,BOOK,2700.00,Dr Bank 2700.00 / Cr Accounts Payable - Jyoti Office Supplies 2700.00,,Keyed in as 108522.74 instead of 105822.74 (two digits transposed).
+AK-173,NO_REFERENCE,BK-0175,BS-0156,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-174,NO_REFERENCE,BK-0176,BS-0157,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-175,NO_REFERENCE,BK-0177,BS-0158,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-176,EXACT,BK-0178,BS-0159,-589435.74,-589435.74,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-177,NO_REFERENCE,BK-0179,BS-0160,32825.17,32825.17,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-178,DATE_LAG,BK-0180,BS-0183,13871.14,13871.14,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-179,DATE_LAG,BK-0181,BS-0184,114582.00,114582.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-180,EXACT,BK-0182,BS-0162,71474.00,71474.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-181,AMOUNT_ERROR,BK-0183,BS-0176,35994.00,39594.00,BOOK,3600.00,Dr Bank 3600.00 / Cr Accounts Receivable - Chandan Paints Depot 3600.00,,Keyed in as 35994.00 instead of 39594.00 (two digits transposed).
+AK-182,DATE_LAG,BK-0184,BS-0201,63955.08,63955.08,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 3 working day(s) later.
+AK-183,EXACT,BK-0185,BS-0166,-49913.74,-49913.74,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-184,EXACT,BK-0186,BS-0169,-2732.00,-2732.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-185,EXACT,BK-0187,BS-0170,-16457.83,-16457.83,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-186,EXACT,BK-0188,BS-0171,-87102.80,-87102.80,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-187,EXACT,BK-0189,BS-0172,-22746.65,-22746.65,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-188,EXACT,BK-0190,BS-0173,-17509.10,-17509.10,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-189,EXACT,BK-0191,BS-0174,-181527.00,-181527.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-190,DATE_LAG,BK-0192,BS-0197,179053.00,179053.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-191,DATE_LAG,BK-0193,BS-0200,131926.00,131926.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-192,AMOUNT_ERROR,BK-0194,BS-0177,734988.16,374988.16,BOOK,-360000.00,Dr Accounts Receivable - Narmada Plastics 360000.00 / Cr Bank 360000.00,,Keyed in as 734988.16 instead of 374988.16 (two digits transposed).
+AK-193,EXACT,BK-0195,BS-0178,-16673.00,-16673.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-194,EXACT,BK-0196,BS-0182,-11441.69,-11441.69,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-195,BATCH_DEPOSIT,BK-0197;BK-0198;BK-0199;BK-0200,BS-0195,659934.68,659934.68,NONE,0.00,No entry needed,,4 cheques paid in on slip DS086978; the bank shows one combined credit.
+AK-196,DATE_LAG,BK-0201,BS-0196,39229.00,39229.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-197,EXACT,BK-0202,BS-0185,60055.72,60055.72,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-198,EXACT,BK-0203,BS-0186,20225.76,20225.76,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-199,EXACT,BK-0204,BS-0187,87314.00,87314.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-200,EXACT,BK-0205,BS-0188,-41193.43,-41193.43,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-201,NO_REFERENCE,BK-0206,BS-0189,-43832.00,-43832.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-202,EXACT,BK-0207,BS-0190,-11535.16,-11535.16,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-203,OUTSTANDING_PAYMENT,BK-0208,,-19901.29,,BANK,-19901.29,No entry needed: timing difference,2026-07-06,Cheque 463031 issued on 2026-06-24 has not been presented yet.
+AK-204,EXACT,BK-0209,BS-0191,-21307.00,-21307.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-205,AMOUNT_ERROR,BK-0210,BS-0198,25770.00,25707.00,BOOK,-63.00,Dr Accounts Receivable - Deccan Steel Fabricators 63.00 / Cr Bank 63.00,,Keyed in as 25770.00 instead of 25707.00 (two digits transposed).
+AK-206,EXACT,BK-0211,BS-0199,4035.69,4035.69,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-207,DATE_LAG,BK-0212,BS-0212,29862.00,29862.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-208,DATE_LAG,BK-0213,BS-0214,52268.00,52268.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-209,EXACT,BK-0214,BS-0202,211939.24,211939.24,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-210,EXACT,BK-0215,BS-0203,100946.00,100946.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-211,DATE_LAG,BK-0216,BS-0215,98133.23,98133.23,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-212,EXACT,BK-0217,BS-0204,-4144.37,-4144.37,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-213,EXACT,BK-0218,BS-0205,-144461.15,-144461.15,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-214,DATE_LAG,BK-0219,BS-0235,-20640.33,-20640.33,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-215,NO_REFERENCE,BK-0220,BS-0206,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-216,NO_REFERENCE,BK-0221,BS-0207,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-217,NO_REFERENCE,BK-0222,BS-0208,118000.00,118000.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-218,BANK_CHARGE,,BS-0209,,-295.00,BOOK,-295.00,Dr Bank Charges 295.00 / Cr Bank 295.00,,Charge debited by the bank and not yet booked.
+AK-219,DATE_LAG,BK-0223,BS-0227,41891.38,41891.38,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-220,DATE_LAG,BK-0224,BS-0240,15132.99,15132.99,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 2 working day(s) later.
+AK-221,EXACT,BK-0225,BS-0210,31015.00,31015.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-222,EXACT,BK-0226,BS-0211,13360.71,13360.71,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-223,DATE_LAG,BK-0227,BS-0228,79007.82,79007.82,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-224,AMOUNT_ERROR,BK-0228,BS-0230,30477.16,30747.16,BOOK,270.00,Dr Bank 270.00 / Cr Accounts Receivable - Tulsi Healthcare LLP 270.00,,Keyed in as 30477.16 instead of 30747.16 (two digits transposed).
+AK-225,EXACT,BK-0229,BS-0213,47224.00,47224.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-226,DATE_LAG,BK-0230,BS-0231,25457.32,25457.32,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-227,NO_REFERENCE,BK-0231,BS-0216,74851.00,74851.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-228,DEPOSIT_IN_TRANSIT,BK-0232,,456495.00,,BANK,456495.00,No entry needed: timing difference,2026-07-01,"Booked on 2026-06-26; the bank credits it on 2026-07-01, after this statement."
+AK-229,EXACT,BK-0233,BS-0217,140779.09,140779.09,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-230,OUTSTANDING_PAYMENT,BK-0234,,-105526.83,,BANK,-105526.83,No entry needed: timing difference,2026-07-03,Cheque 564651 issued on 2026-06-26 has not been presented yet.
+AK-231,EXACT,BK-0235,BS-0218,-48588.00,-48588.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-232,EXACT,BK-0236,BS-0219,-297246.00,-297246.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-233,EXACT,BK-0237,BS-0220,-61261.39,-61261.39,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-234,EXACT,BK-0238,BS-0221,-20255.92,-20255.92,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-235,EXACT,BK-0239,BS-0222,-14093.11,-14093.11,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-236,NO_REFERENCE,BK-0240,BS-0223,-77596.00,-77596.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-237,OUTSTANDING_PAYMENT,BK-0241,,-35108.09,,BANK,-35108.09,No entry needed: timing difference,2026-07-09,Cheque 302992 issued on 2026-06-26 has not been presented yet.
+AK-238,DIRECT_CREDIT,,BS-0224,,76649.76,BOOK,76649.76,Dr Bank 76649.76 / Cr Customer Advances - Aravalli Constructions 76649.76,,Aravalli Constructions paid straight into the account; not yet booked.
+AK-239,EXACT,BK-0242,BS-0225,28472.00,28472.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-240,EXACT,BK-0243,BS-0226,76872.75,76872.75,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-241,DATE_LAG,BK-0244,BS-0241,21513.00,21513.00,NONE,0.00,No entry needed,,Same amount and reference; the bank posted it 1 working day(s) later.
+AK-242,NO_REFERENCE,BK-0245,BS-0229,71133.00,71133.00,NONE,0.00,No entry needed,,Same amount; the bank narration has no shared reference and a shortened name.
+AK-243,OUTSTANDING_PAYMENT,BK-0246,,-9222.00,,BANK,-9222.00,No entry needed: timing difference,2026-07-01,Cheque 099770 issued on 2026-06-29 has not been presented yet.
+AK-244,EXACT,BK-0247,BS-0232,-37362.94,-37362.94,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-245,OUTSTANDING_PAYMENT,BK-0248,,-59978.27,,BANK,-59978.27,No entry needed: timing difference,2026-07-06,Cheque 143888 issued on 2026-06-29 has not been presented yet.
+AK-246,EXACT,BK-0249,BS-0233,-77595.32,-77595.32,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-247,OUTSTANDING_PAYMENT,BK-0250,,-20655.36,,BANK,-20655.36,No entry needed: timing difference,2026-07-08,Cheque 684577 issued on 2026-06-29 has not been presented yet.
+AK-248,EXACT,BK-0251,BS-0234,-3325.12,-3325.12,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-249,EXACT,BK-0252,BS-0236,-67224.72,-67224.72,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-250,EXACT,BK-0253,BS-0238,-104624.63,-104624.63,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-251,OUTSTANDING_PAYMENT,BK-0254,,-45438.00,,BANK,-45438.00,No entry needed: timing difference,2026-07-03,Cheque 286990 issued on 2026-06-29 has not been presented yet.
+AK-252,BANK_CHARGE,,BS-0239,,-590.00,BOOK,-590.00,Dr Bank Charges 590.00 / Cr Bank 590.00,,Charge debited by the bank and not yet booked.
+AK-253,DEPOSIT_IN_TRANSIT,BK-0255,,29242.87,,BANK,29242.87,No entry needed: timing difference,2026-07-03,"Booked on 2026-06-30; the bank credits it on 2026-07-03, after this statement."
+AK-254,EXACT,BK-0256,BS-0242,38262.71,38262.71,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-255,EXACT,BK-0257,BS-0243,174039.47,174039.47,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-256,EXACT,BK-0258,BS-0244,109819.33,109819.33,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-257,EXACT,BK-0259,BS-0245,36010.60,36010.60,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-258,EXACT,BK-0260,BS-0246,-18325.00,-18325.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-259,OUTSTANDING_PAYMENT,BK-0261,,-125913.87,,BANK,-125913.87,No entry needed: timing difference,2026-07-02,Cheque 375628 issued on 2026-06-30 has not been presented yet.
+AK-260,DEPOSIT_IN_TRANSIT,BK-0262,,170173.00,,BANK,170173.00,No entry needed: timing difference,2026-07-02,"Booked on 2026-06-30; the bank credits it on 2026-07-02, after this statement."
+AK-261,DEPOSIT_IN_TRANSIT,BK-0263,,128996.00,,BANK,128996.00,No entry needed: timing difference,2026-07-01,"Booked on 2026-06-30; the bank credits it on 2026-07-01, after this statement."
+AK-262,EXACT,BK-0264,BS-0248,-2456654.00,-2456654.00,NONE,0.00,No entry needed,,"Same amount, same day and a shared reference."
+AK-263,BANK_CHARGE,,BS-0249,,-236.00,BOOK,-236.00,Dr Bank Charges 236.00 / Cr Bank 236.00,,Charge debited by the bank and not yet booked.
+AK-264,INTEREST_CREDIT,,BS-0250,,5371.42,BOOK,5371.42,Dr Bank 5371.42 / Cr Interest Income 5371.42,,Interest credited by the bank and not yet booked.

@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+runs/
+output/evaluation_data/
+payee_memory.json
+backup_before_tds_memory/

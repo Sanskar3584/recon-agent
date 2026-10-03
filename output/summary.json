@@ -1,0 +1,153 @@
+{
+  "labeler": "rules",
+  "matching": {
+    "period_end": "2026-06-30",
+    "matches": 231,
+    "needs_correction": 9,
+    "unmatched_book_lines": 14,
+    "unmatched_bank_lines": 10,
+    "lines_auto_matched_pct": 91.8,
+    "matches_by_rule": {
+      "reference": 201,
+      "amount_diff": 9,
+      "amount_date": 26,
+      "one_to_many": 4
+    }
+  },
+  "statement": {
+    "period_end": "2026-06-30",
+    "book_closing_balance": "9586698.49",
+    "book_adjustments": "-460109.49",
+    "adjusted_book_balance": "9126589.00",
+    "bank_closing_balance": "8837715.60",
+    "deposits_in_transit": "784906.87",
+    "outstanding_payments": "-421743.71",
+    "adjusted_bank_balance": "9200878.76",
+    "difference": "74289.76",
+    "items_needing_review": 2,
+    "value_needing_review": "79009.76",
+    "suggestions_counted": 33,
+    "approved_only": false
+  },
+  "exceptions_by_category": {
+    "AMOUNT_ERROR": 9,
+    "BANK_CHARGE": 5,
+    "DEPOSIT_IN_TRANSIT": 4,
+    "DIRECT_CREDIT": 1,
+    "DUPLICATE_BOOK": 2,
+    "INTEREST_CREDIT": 1,
+    "NEEDS_REVIEW": 2,
+    "OUTSTANDING_PAYMENT": 8,
+    "UNRECORDED_DEBIT": 1
+  },
+  "scores": {
+    "matching": {
+      "items": 264,
+      "match_precision_pct": 100.0,
+      "auto_match_rate_pct": 100.0,
+      "exceptions_surfaced_pct": 100.0,
+      "proposed_pairs": 240,
+      "correct_pairs": 240,
+      "matchable_items": 231,
+      "exception_items": 33,
+      "by_category": {
+        "EXACT": {
+          "items": 139,
+          "correct": 139
+        },
+        "AMOUNT_ERROR": {
+          "items": 9,
+          "correct": 9
+        },
+        "DATE_LAG": {
+          "items": 62,
+          "correct": 62
+        },
+        "NO_REFERENCE": {
+          "items": 26,
+          "correct": 26
+        },
+        "BATCH_DEPOSIT": {
+          "items": 4,
+          "correct": 4
+        },
+        "DIRECT_CREDIT": {
+          "items": 2,
+          "correct": 2
+        },
+        "UNRECORDED_DEBIT": {
+          "items": 2,
+          "correct": 2
+        },
+        "BANK_CHARGE": {
+          "items": 5,
+          "correct": 5
+        },
+        "DUPLICATE_BOOK": {
+          "items": 2,
+          "correct": 2
+        },
+        "OUTSTANDING_PAYMENT": {
+          "items": 8,
+          "correct": 8
+        },
+        "DEPOSIT_IN_TRANSIT": {
+          "items": 4,
+          "correct": 4
+        },
+        "INTEREST_CREDIT": {
+          "items": 1,
+          "correct": 1
+        }
+      }
+    },
+    "labels": {
+      "exceptions": 33,
+      "category_accuracy_pct": 93.9,
+      "entry_accuracy_pct": 93.9,
+      "needs_review": 2,
+      "by_category": {
+        "AMOUNT_ERROR": {
+          "items": 9,
+          "correct": 9,
+          "entry_correct": 9
+        },
+        "DUPLICATE_BOOK": {
+          "items": 2,
+          "correct": 2,
+          "entry_correct": 2
+        },
+        "OUTSTANDING_PAYMENT": {
+          "items": 8,
+          "correct": 8,
+          "entry_correct": 8
+        },
+        "DEPOSIT_IN_TRANSIT": {
+          "items": 4,
+          "correct": 4,
+          "entry_correct": 4
+        },
+        "DIRECT_CREDIT": {
+          "items": 2,
+          "correct": 1,
+          "entry_correct": 1
+        },
+        "UNRECORDED_DEBIT": {
+          "items": 2,
+          "correct": 1,
+          "entry_correct": 1
+        },
+        "BANK_CHARGE": {
+          "items": 5,
+          "correct": 5,
+          "entry_correct": 5
+        },
+        "INTEREST_CREDIT": {
+          "items": 1,
+          "correct": 1,
+          "entry_correct": 1
+        }
+      }
+    }
+  }
+}

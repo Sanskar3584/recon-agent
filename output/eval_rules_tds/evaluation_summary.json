@@ -1,0 +1,70 @@
+{
+  "labeler": "rules",
+  "months": 12,
+  "first_month": "2025-07",
+  "last_month": "2026-06",
+  "lines": 6097,
+  "match_precision_pct": 100.0,
+  "auto_match_rate_pct": 100.0,
+  "exceptions": 449,
+  "category_accuracy_pct": 90.9,
+  "entry_accuracy_pct": 90.9,
+  "needs_review": 33,
+  "by_category": {
+    "AMOUNT_ERROR": {
+      "items": 78,
+      "correct": 77,
+      "entry_correct": 77,
+      "accuracy_pct": 98.7
+    },
+    "BANK_CHARGE": {
+      "items": 60,
+      "correct": 45,
+      "entry_correct": 45,
+      "accuracy_pct": 75.0
+    },
+    "DEPOSIT_IN_TRANSIT": {
+      "items": 65,
+      "correct": 65,
+      "entry_correct": 65,
+      "accuracy_pct": 100.0
+    },
+    "DIRECT_CREDIT": {
+      "items": 24,
+      "correct": 12,
+      "entry_correct": 12,
+      "accuracy_pct": 50.0
+    },
+    "DUPLICATE_BOOK": {
+      "items": 24,
+      "correct": 24,
+      "entry_correct": 24,
+      "accuracy_pct": 100.0
+    },
+    "INTEREST_CREDIT": {
+      "items": 12,
+      "correct": 12,
+      "entry_correct": 12,
+      "accuracy_pct": 100.0
+    },
+    "OUTSTANDING_PAYMENT": {
+      "items": 126,
+      "correct": 126,
+      "entry_correct": 126,
+      "accuracy_pct": 100.0
+    },
+    "TDS_DEDUCTED": {
+      "items": 36,
+      "correct": 36,
+      "entry_correct": 36,
+      "accuracy_pct": 100.0
+    },
+    "UNRECORDED_DEBIT": {
+      "items": 24,
+      "correct": 11,
+      "entry_correct": 11,
+      "accuracy_pct": 45.8
+    }
+  },
+  "tds_per_month": 3
+}

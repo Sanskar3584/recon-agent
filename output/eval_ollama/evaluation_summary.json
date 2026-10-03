@@ -1,0 +1,63 @@
+{
+  "labeler": "ollama:llama3.1:8b",
+  "months": 12,
+  "first_month": "2025-07",
+  "last_month": "2026-06",
+  "lines": 6097,
+  "match_precision_pct": 100.0,
+  "auto_match_rate_pct": 100.0,
+  "exceptions": 413,
+  "category_accuracy_pct": 80.4,
+  "entry_accuracy_pct": 76.8,
+  "needs_review": 59,
+  "by_category": {
+    "AMOUNT_ERROR": {
+      "items": 78,
+      "correct": 77,
+      "entry_correct": 77,
+      "accuracy_pct": 98.7
+    },
+    "BANK_CHARGE": {
+      "items": 60,
+      "correct": 60,
+      "entry_correct": 60,
+      "accuracy_pct": 100.0
+    },
+    "DEPOSIT_IN_TRANSIT": {
+      "items": 65,
+      "correct": 12,
+      "entry_correct": 12,
+      "accuracy_pct": 18.5
+    },
+    "DIRECT_CREDIT": {
+      "items": 24,
+      "correct": 21,
+      "entry_correct": 21,
+      "accuracy_pct": 87.5
+    },
+    "DUPLICATE_BOOK": {
+      "items": 24,
+      "correct": 0,
+      "entry_correct": 0,
+      "accuracy_pct": 0.0
+    },
+    "INTEREST_CREDIT": {
+      "items": 12,
+      "correct": 12,
+      "entry_correct": 12,
+      "accuracy_pct": 100.0
+    },
+    "OUTSTANDING_PAYMENT": {
+      "items": 126,
+      "correct": 126,
+      "entry_correct": 126,
+      "accuracy_pct": 100.0
+    },
+    "UNRECORDED_DEBIT": {
+      "items": 24,
+      "correct": 24,
+      "entry_correct": 9,
+      "accuracy_pct": 37.5
+    }
+  }
+}

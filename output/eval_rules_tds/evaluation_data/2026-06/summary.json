@@ -1,0 +1,31 @@
+{
+  "period": "2026-06",
+  "seed": 1011,
+  "company": "Kestrel Components Pvt Ltd",
+  "opening_balance": "5000000.00",
+  "book_closing_balance": "6422502.35",
+  "bank_closing_balance": "6527115.91",
+  "book_adjustments": "-47100.58",
+  "bank_adjustments": "-151714.14",
+  "adjusted_book_balance": "6375401.77",
+  "adjusted_bank_balance": "6375401.77",
+  "difference": "0.00",
+  "book_lines": 263,
+  "bank_lines": 247,
+  "items": 264,
+  "items_by_category": {
+    "EXACT": 123,
+    "DATE_LAG": 68,
+    "NO_REFERENCE": 36,
+    "BATCH_DEPOSIT": 4,
+    "AMOUNT_ERROR": 3,
+    "DUPLICATE_BOOK": 2,
+    "DEPOSIT_IN_TRANSIT": 4,
+    "OUTSTANDING_PAYMENT": 11,
+    "BANK_CHARGE": 5,
+    "INTEREST_CREDIT": 1,
+    "UNRECORDED_DEBIT": 2,
+    "DIRECT_CREDIT": 2,
+    "TDS_DEDUCTED": 3
+  }
+}

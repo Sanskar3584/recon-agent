@@ -1,0 +1,15 @@
+# Matching and the API
+rapidfuzz~=3.14
+fastapi~=0.141
+uvicorn[standard]~=0.54
+python-multipart~=0.0.32
+
+# LLM step (LangChain structured output on OpenAI or a local Ollama model)
+langchain-core~=1.6
+langchain-openai~=1.6
+langchain-ollama~=1.1
+python-dotenv~=1.2
+
+# Tests
+pytest>=8
+httpx~=0.28

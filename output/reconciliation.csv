@@ -1,0 +1,9 @@
+order,section,line,amount
+1,Book,Balance as per cash book,9586698.49
+2,Book,Add/(less) suggested book adjustments,-460109.49
+3,Book,Adjusted book balance,9126589.00
+4,Bank,Balance as per bank statement,8837715.60
+5,Bank,Add deposits in transit,784906.87
+6,Bank,Less outstanding payments,-421743.71
+7,Bank,Adjusted bank balance,9200878.76
+8,Check,Difference,74289.76
